@@ -1,0 +1,22 @@
+Python Fundamentals:
+
+1. Absolute Basics:
+    * Why Python and its evolution
+    * Download and Installation
+2. Basic Concepts:
+    * Variables
+    * Strings
+    * Data Types and Casting
+    * Booleans and loops
+    * Functions
+    * Arrays
+    * Statements
+    * List
+    * Tuple
+    * Sets
+ 3. OOP's Concepts:
+    * Classes & Objects
+    * Inheritance
+    * Polymorphism
+    * Constructor
+    * Iterators
