@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aceb2396-ecf6-4f32-b0e8-0461a4fc8296" name="Changes" comment="Updated with all Variable topics with examples.&#10;- Variable creation&#10;- casting&#10;- type keyword&#10;- case-sensitive&#10;- Naming conventions and its types&#10;- Global variables&#10;- global keyword">
-      <change afterPath="$PROJECT_DIR$/PythonBasics/DataTypes.py" afterDir="false" />
+    <list default="true" id="aceb2396-ecf6-4f32-b0e8-0461a4fc8296" name="Changes" comment="Commit4:DataTypes &amp; Type keyword">
+      <change afterPath="$PROJECT_DIR$/PythonBasics/StringMethods&amp;Slicing.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonBasics/Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonBasics/Strings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +54,9 @@
   "keyToString": {
     "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "Python.DataTypes.executor": "Run",
+    "Python.SlicingString.executor": "Run",
+    "Python.StringMethods&Slicing.executor": "Run",
+    "Python.Strings.executor": "Run",
     "Python.Variables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "full.screen.before.presentation.mode": "false",
@@ -176,7 +180,23 @@
       <option name="project" value="LOCAL" />
       <updated>1727372614558</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Commit3:&#10;Concept: DataTypes &amp; Type keyword">
+      <option name="closed" value="true" />
+      <created>1727374404162</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1727374404162</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Commit4:DataTypes &amp; Type keyword">
+      <option name="closed" value="true" />
+      <created>1727972278527</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1727972278527</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -199,6 +219,8 @@
     <MESSAGE value="Intitlial commit" />
     <MESSAGE value="commit 2" />
     <MESSAGE value="Updated with all Variable topics with examples.&#10;- Variable creation&#10;- casting&#10;- type keyword&#10;- case-sensitive&#10;- Naming conventions and its types&#10;- Global variables&#10;- global keyword" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated with all Variable topics with examples.&#10;- Variable creation&#10;- casting&#10;- type keyword&#10;- case-sensitive&#10;- Naming conventions and its types&#10;- Global variables&#10;- global keyword" />
+    <MESSAGE value="Commit3:&#10;Concept: DataTypes &amp; Type keyword" />
+    <MESSAGE value="Commit4:DataTypes &amp; Type keyword" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit4:DataTypes &amp; Type keyword" />
   </component>
 </project>
