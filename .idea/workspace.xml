@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aceb2396-ecf6-4f32-b0e8-0461a4fc8296" name="Changes" comment="Creating class and object">
+    <list default="true" id="aceb2396-ecf6-4f32-b0e8-0461a4fc8296" name="Changes" comment="This file contains below changes:&#10;1. Creating class and object&#10;2. Modifying the object parameters&#10;3. Deleting Object and object properties">
+      <change afterPath="$PROJECT_DIR$/PythonBasics/Inheritance.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonBasics/DemoClass.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonBasics/DemoClass.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +54,7 @@
     "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "Python.DataTypes.executor": "Run",
     "Python.DemoClass.executor": "Run",
+    "Python.Inheritance.executor": "Run",
     "Python.SlicingString.executor": "Run",
     "Python.StringMethods&Slicing.executor": "Run",
     "Python.Strings.executor": "Run",
@@ -220,7 +221,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727980422539</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="This file contains below changes:&#10;1. Creating class and object&#10;2. Modifying the object parameters&#10;3. Deleting Object and object properties">
+      <option name="closed" value="true" />
+      <created>1728114226893</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1728114226894</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -246,6 +255,7 @@
     <MESSAGE value="Commit3:&#10;Concept: DataTypes &amp; Type keyword" />
     <MESSAGE value="Commit4:DataTypes &amp; Type keyword" />
     <MESSAGE value="Creating class and object" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating class and object" />
+    <MESSAGE value="This file contains below changes:&#10;1. Creating class and object&#10;2. Modifying the object parameters&#10;3. Deleting Object and object properties" />
+    <option name="LAST_COMMIT_MESSAGE" value="This file contains below changes:&#10;1. Creating class and object&#10;2. Modifying the object parameters&#10;3. Deleting Object and object properties" />
   </component>
 </project>
